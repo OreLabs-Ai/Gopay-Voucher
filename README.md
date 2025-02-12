@@ -62,5 +62,13 @@ Script ini dirancang untuk mengotomatisasi pendaftaran akun Gojek dan klaim vouc
 - **Setup Awal:**  
   Instalasi awal cuma perlu mengatur dependensi (Python, pip, dll). Sisanya bisa langsung diatur via `requirements.txt` untuk instalasi otomatis. Setelah itu, biaya operasional hanya berupa bulanan VPS dan verifikasi IP melalui bot.
 
+## Kontak
+
+Jika ada pertanyaan lebih lanjut, silakan hubungi saya melalui:  
+
+📞 **WhatsApp:** [+62 831-3982-4761](https://wa.me/6283139824761)  
+✉️ **Email:** [indraaa-f@neezc.art](mailto:indraaa-f@neezc.art)  
+📲 **Telegram:** [@neezc](https://t.me/neezc)
+
 ---
 
