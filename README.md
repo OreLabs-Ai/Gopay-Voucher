@@ -52,7 +52,7 @@ Script ini dirancang untuk mengotomatisasi pendaftaran akun Gojek dan klaim vouc
    Jika suatu saat script tidak bisa digunakan lagi karena masalah berat (misalnya admin memasang "bendera putih"), ada garansi 12 bulan. Dalam kondisi tersebut, admin akan mengembalikan 40% dari uang pembelian kepada kamu.
 
 4. **Verifikasi IP VPS yang tiap bulan berubah gimana?**  
-   Kamu perlu melakukan verifikasi IP melalui bot verifikasi (t.me/verifv3bot). Prosesnya dengan memasukkan username dan password yang diberikan admin. Max 2 IP per user per bulan. Jika VPS kamu dibanned sebelum satu bulan, hubungi admin untuk penghapusan IP lama.
+   Kamu perlu melakukan verifikasi IP melalui bot verifikasi (https://t.me/verifv3bot). Prosesnya dengan memasukkan username dan password yang diberikan admin. Max 2 IP per user per bulan. Jika VPS kamu dibanned sebelum satu bulan, hubungi admin untuk penghapusan IP lama.
 
 ## Catatan Tambahan
 
