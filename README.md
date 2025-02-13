@@ -43,7 +43,7 @@ Script ini dirancang untuk mengotomatisasi pendaftaran akun Gojek dan klaim vouc
 ## FAQ (Pertanyaan & Jawaban)
 
 1. **Boleh tanya seputar penggunaan atau error script?**  
-   Boleh, selama pertanyaan terkait cara penggunaan atau error yang muncul karena kesalahan pengguna, bukan karena kesalahan pada script itu sendiri. Untuk pertanyaan lebih mendalam, kamu bisa langsung bertanya ke channel Open AI yang disediakan.
+   Boleh, selama pertanyaan terkait error yang muncul karena kesalahan script, bukan karena kesalahan pada pengguna. Untuk pertanyaan lebih mendalam, kamu bisa langsung bertanya ke bot Open AI yang disediakan oleh admin untuk yang memiliki seluruh pemahaman mengenai script ini. dia akan membantu mu.
 
 2. **Apakah script ini akan selalu bisa dipakai meski Gojek melakukan update?**  
    Pasti! Setiap masalah pasti ada jalan keluarnya. Kalau masih terkait deteksi (misalnya API detect bot), biasanya cukup dengan penyesuaian kecil. Admin selalu siap mengatasi kendala yang muncul.
