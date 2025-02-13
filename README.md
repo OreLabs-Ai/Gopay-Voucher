@@ -54,6 +54,65 @@ Script ini dirancang untuk mengotomatisasi pendaftaran akun Gojek dan klaim vouc
 4. **Verifikasi IP VPS yang tiap bulan berubah gimana?**  
    Kamu perlu melakukan verifikasi IP melalui bot verifikasi (https://t.me/verifv3bot). Prosesnya dengan memasukkan username dan password yang diberikan admin. Max 2 IP per user per bulan. Jika VPS kamu dibanned sebelum satu bulan, hubungi admin untuk penghapusan IP lama.
 
+## Cara Instalasi (untuk VPS Linux)
+
+1. Clone repository:
+   ```bash
+   git clone https://github.com/OreLabs-Ai/Gopay-Voucher.git
+   ```
+
+2. Masuk ke direktori repository:
+   ```bash
+   cd Gopay-Voucher
+   ```
+
+3. Instal dependensi:
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+
+4. Jalankan script:
+   ```bash
+   python3 go.py
+   ```
+
+5. Jika terjadi delay, harap menunggu sampai 5-10 menit.
+
+---
+
+## Cara Instalasi (untuk Termux di Android)
+
+> **Catatan:** Pastikan HP kamu sudah di-root jika ingin menggunakan Termux.
+
+1. Instal Git dan Python:
+   ```bash
+   pkg install git python
+   ```
+
+2. Clone repository:
+   ```bash
+   git clone https://github.com/OreLabs-Ai/Gopay-Voucher.git
+   ```
+
+3. Masuk ke direktori repository:
+   ```bash
+   cd Gopay-Voucher
+   ```
+
+4. Instal dependensi:
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+
+5. Jalankan script:
+   ```bash
+   python3 go.py
+   ```
+
+6. Jika terjadi delay, harap menunggu sampai 5-10 menit.
+
+
+
 ## Catatan Tambahan
 
 - **Penggunaan di Windows:**  
